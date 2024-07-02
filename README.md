@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Denis, and I am currently enrolled in a BootCamp at Concordia University in Montréal. I have a broad range of interests, but I am particularly passionate about the Python programming language, data science, and machine learning models.
+My name is Denis, I have a broad range of interests but I am particularly passionate about the Python programming language, data science, and machine learning models. I am always seeking new projects to explore and innovate. Connect with me on GitHub regularly to see my latest work.
 
 
 <!--
