@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-My name is Denis, I have a broad range of interests but I am particularly passionate about the Python programming language, data science, and machine learning models. I am always seeking new projects to explore and innovate. Connect with me on GitHub regularly to see my latest work ! :)
+Hello! My name is Denis. I have a broad range of interests, but I'm especially passionate about Python, data science, and machine learning. I have a background in Environmental Science and completed an amazing Data Science Bootcamp. I’m always excited to explore new projects and innovate. Feel free to connect with me on GitHub to see my latest work!
 
+😄 Pronouns: He / Him
+🌱 Currently: A member of the Climate Change AI Community
+🔭 Working on: Projects that combine environmental science and data science!
 
 <!--
 **Denis-Frizat/Denis-Frizat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 -->
