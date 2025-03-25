@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Denis. I have a broad range of interests, but I'm especially passionate about Python, data science, and machine learning. I have a background in Environmental Science and completed an amazing Data Science Bootcamp. I’m always excited to explore new projects and innovate. Feel free to connect with me on GitHub to see my latest work!
+Hello! My name is Denis. My core focus is environmental science, and I'm leveraging my skills in Python, data science, and machine learning to advance research and solutions in this field. I've built a solid foundation through a Data Science Bootcamp and I'm keen to explore projects that make a positive environmental impact. Check out my latest work on GitHub!
 
 -😄 Pronouns: He / Him  
 -🌱 Currently: A member of the Climate Change AI Community  
